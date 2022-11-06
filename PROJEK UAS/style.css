@@ -1,0 +1,33 @@
+.carousel-item{
+    height: 800px;
+}
+
+.carousel-item img{
+    filter: brightness(30%);
+    margin-top: -500px;
+}
+
+.carousel-item .gambar-1 {
+    margin-top: -420px;
+    color: #D6D8DA;
+    font-size: 60px;
+}
+
+.carousel-item .gambar-2 {
+    opacity: 75%;
+    color: #FAFAFA;
+    font-size: 30px;
+}
+
+.col-md-6 float-md-end mb-3 ms-md-3 {
+    height: 50%;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+}
+
